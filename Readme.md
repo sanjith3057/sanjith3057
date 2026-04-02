@@ -4,8 +4,6 @@
 
 <h3 align="left">I'm Sanjith G</h3>
 
-###
-
 <h5 align="left">I build production-ready AI systems with a focus on LLMs, Retrieval-Augmented Generation (RAG), and intelligent applications. I have hands-on experience developing end-to-end pipelines, from data processing to deployment, with an emphasis on real-world impact.</h5>
 
 ###
