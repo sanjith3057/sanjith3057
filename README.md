@@ -12,6 +12,42 @@
 ## 📌 About Me
 - I am a leaner who builds production-ready AI systems with a focus on LLMs, retrieval-augmented generation (RAG), and intelligent applications. I have hands-on experience developing end-to-end pipelines, from data processing to deployment, with an emphasis on real-world impact.
 
+## 😀 Fun fact
+I don’t just learn AI — I build with it.
+I prefer real-world systems over theoretical concepts.
+I focus on turning ideas into working products.
+I believe in learning by building and shipping.
+📚 I'm currently learning
+Advanced LLM architectures and optimization
+Agentic AI systems and multi-agent workflows
+Scalable RAG systems and evaluation techniques
+MLOps practices for production-ready AI systems
+
+## 😁 What I Do
+Design and develop LLM-powered applications (RAG, agents, and chatbots). Build scalable ML pipelines and deploy using FastAPI & Docker. Work on NLP systems using transformers (BERT, LLaMA). Develop data-driven solutions with monitoring and retraining workflows.
+
+## 😀 Experience
+Data Science Intern – Built full-stack RAG systems, fraud detection models, and ML pipelines
+NLP Developer Intern – Developed legal document intelligence systems using LLMs
+
+## 😁 Key Skills
+LLM & GenAI: LangChain, LLaMA, BERT, RAG, Prompt Engineering
+
+ML & ML Ops: Scikit-learn, XGBoost, MLflow, Data Drift Detection
+
+Backend & Deployment: FastAPI, Flask, Docker, REST APIs
+
+Data: Pandas, NumPy, Matplotlib
+
+Tools: Git, GitHub, Google Colab, VS Code, Anti-Gravity, and claude code
+
+## 😁 Current Projects
+PRISM RAG – Document intelligence system using LLM + vector search
+
+Neural Echo – Emotion-aware conversational AI with memory
+
+## ✌️ Open to Work
+I am actively seeking opportunities in AI/ML, generative AI, and LLM-based systems where I can contribute from day one.
 
 ## 🧠 My Focus Areas
 - Data Analyst
