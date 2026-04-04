@@ -54,13 +54,6 @@ I am actively seeking opportunities in AI/ML, generative AI, and LLM-based syste
 - Data Scientist
 - AI and ML engineer
 
-
-## 📊 GitHub Stats & Trophies
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
